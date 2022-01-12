@@ -18,6 +18,7 @@ public class Testgit {
         // TODO code application logic here
      int no;
      int yes;
+     yes = 5;
     }
     
 }
